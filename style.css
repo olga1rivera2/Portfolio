@@ -1,5 +1,4 @@
 h1{
-
     justify-content: center;
     background-color: aqua;
     font-size: 50px;
@@ -10,17 +9,19 @@ h1{
     padding: 10px;
 }
 p{ 
-    text-align: center
-
-    
-}
-img{
-    width: 200px;
-    height: 200px;
-    margin-bottom
-    
+    text-align: center;   
 }
 li{
-    justify-content: 
+    justify-content: center; 
 }
 
+.one{ 
+    background-color:rgb(red, green, blue (30,  40, 50);  
+    
+}
+.two{
+    background-color:rgb(red, green, blue (30, 40, 50);
+}
+.three{
+    background-color: rgb(red, green, blue( 30, 40, 50):
+}
