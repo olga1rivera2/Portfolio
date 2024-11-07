@@ -1,5 +1,5 @@
 h1{
-    justify-content: center;
+    margin: auto;
     background-color: aqua;
     font-size: 50px;
     width: 800px;
@@ -7,6 +7,7 @@ h1{
     text-align: center;
     border: dashed 10px black;
     padding: 10px;
+    
 }
 p{ 
     text-align: center;   
@@ -14,14 +15,15 @@ p{
 li{
     justify-content: center; 
 }
-
 .one{ 
-    background-color:rgb red, green, blue (30,  40, 50)
-    
+    width: 600px;
+    height: 550px;
 }
 .two{
-    background-color:rgb red, green, blue (30, 40, 50)
+    width: 600px;
+    height: 550px;
 }
 .three{
-    background-color:rgb red, green, blue (25, 30, 40)
+    width: 650px;
+    height: 600px;
 }
